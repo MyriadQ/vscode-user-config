@@ -1,6 +1,4 @@
 {
-    //Below are vscode custominzation
-
     "workbench.activityBar.location": "hidden",
     "workbench.editor.showTabs": "single",
     "workbench.startupEditor": "none",
@@ -8,7 +6,7 @@
     "editor.minimap.enabled": false,
     "breadcrumbs.enabled": false,
     "workbench.sideBar.location": "left",
-    "workbench.iconTheme": "material-icon-theme", //icon theme, change accordingly
+    "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.hidesExplorerArrows": true,
     "workbench.tree.enableStickyScroll": false,
     "workbench.tree.renderIndentGuides": "none",
@@ -38,7 +36,7 @@
     "window.customTitleBarVisibility": "never",
     "window.titleBarStyle": "custom",
     "window.menuBarVisibility": "hidden",
-    "workbench.colorTheme": "GitHub Dark Dimmed", //overall theme, change accordingly
+    "workbench.colorTheme": "GitHub Dark Dimmed", 
     "editor.tabSize": 2,
     "editor.detectIndentation": false,
 }
